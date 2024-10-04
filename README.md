@@ -11,7 +11,7 @@ This project reads user and company data from JSON files, assign users to correc
 To get started with the app, clone the repo:
 
 ```bash
-git clone https://github.com/jlpnunes/thrive_ruby_project/tree/main
+git clone https://github.com/jlpnunes/thrive_ruby_project.git
 ```
 
 ## Run
